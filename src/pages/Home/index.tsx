@@ -16,6 +16,7 @@ const Home = () => {
   return (
     <Container>
       <ScrollToTop />
+      
       <ContentBlock
         type="right"
         title={IntroContent.title}
@@ -41,6 +42,7 @@ const Home = () => {
         type="right"
         title={MissionContent.title}
         content={MissionContent.text}
+        button={MissionContent.button}
         icon="product-launch.svg"
         id="mission"
       />

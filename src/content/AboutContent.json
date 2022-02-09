@@ -1,15 +1,15 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "The problem with existing yield farms",
+  "text": "Liquidity leaves farms at an alarming rate, “42% of yield farmers that enter a farm on the day it launches exit within 24 hours. Around 16% leave within 48 hours, and by the third day, 70% of these users would have withdrawn from the contract.“",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "The Comrades Solution",
+      "content": "Bonds vest over a period of days set by the protocol and you are free to claim any pro-rata share.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Support your Protocols",
+      "content": "When users purchase Bonds through the Comrades Marketplace, it allows Protocols to accumulate liquidity to secure longevity and price stability for everyone involved. This makes bonds a mutually beneficial exchange.",
       "icon": "notes.svg"
     }
   ]
